@@ -52,6 +52,7 @@ GreenMind is a **Lenovo subsidiary**, leveraging Lenovo's global presence and AI
 **Technology Adoption Life Cycle**:  
 - Enthusiasts (2.5%) → Visionaries (13.5%) → Pragmatists (34%) → Conservatives (34%) → Skeptics (16%)  
 - Marketing focus: Bridge the **chasm** between Visionaries and Pragmatists  
+![Technology Adoption Lifecycle](https://github.com/user-attachments/assets/88706120-8d8b-44f3-9b7f-05b7f95e9df7)
 
 ---
 
