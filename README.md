@@ -16,11 +16,6 @@ GreenMind, a Lenovo Company, focuses on **ethical AI and energy-efficient comput
 ## Company Analysis 🏢
 GreenMind is a **Lenovo subsidiary**, leveraging Lenovo's global presence and AI-enabled hardware/software integration.  
 
-**Highlights**:  
-- Founded: 1984 | HQ: Beijing  
-- Employees: 63,000 | Global Operations: 180 markets  
-- Lenovo Market Share: #1 globally for PC sales Q4 2023  
-
 ---
 
 ## Market Definition & Demand 🌍
