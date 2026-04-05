@@ -27,12 +27,15 @@ GreenMind is a **Lenovo subsidiary**, leveraging Lenovo's global presence and AI
 **Total Addressable Market (TAM)**: $55.68B USD → $129.93B by 2030  
 **Serviceable Addressable Market (SAM)**: $15B USD (6.2M potential customers)  
 **Serviceable Obtainable Market (SOM)**: Year 1: 10,000 units → $25M revenue  
+<img width="385" height="361" alt="Market Overview" src="https://github.com/user-attachments/assets/81b55159-705d-4348-83df-fa9d26cac4f5" />
 
 ---
 
 ## Competitor Analysis ⚔️
 **Direct Competitors**: Acer, Corsair, Dell, Razer, Samsung  
 **Market Trends**: Gaming & high-end PC market growth to $125B by 2030  
+<img width="600" height="371" alt="chart" src="https://github.com/user-attachments/assets/8020ef54-a4ff-4adf-8ce7-6e14b08a01b8" />
+
 
 **Competitive Advantage**:  
 - Energy efficiency + AI optimization  
